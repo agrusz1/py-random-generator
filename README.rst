@@ -11,5 +11,5 @@ Primitive Types:
  - Character
 
 
-Other Typer:
+Other Types:
  - Object
