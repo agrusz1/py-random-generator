@@ -2,7 +2,7 @@
 PY RANDOM GENERATOR
 =======================
 
-This is a helper module to generate random primitives types. Later can be used to recursively randomize all the fields of an object. Ideally used for testing.
+This is a helper module to generate random primitives types. Later can be used to recursively randomize all the fields of an object. Randomizing fields for objects can be high (highest value of all primitive types), random (random values of all primitive types), or low (lowest value of all primitive types). Ideally used for testing.
 
 Primitive Types:
  - String
@@ -12,4 +12,4 @@ Primitive Types:
 
 
 Other Types:
- - Object
+ - Object (high, random, and low)
